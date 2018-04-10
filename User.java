@@ -7,5 +7,7 @@ class Person
    int date;
    public Person()
 {
+   this.name=name;
+   this.age=age;
 }
 }
